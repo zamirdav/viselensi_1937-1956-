@@ -1,0 +1,52 @@
+
+<html>
+<head>
+   <meta http-equiv="content-Type" content="text/html; charset=windows-1251">
+   <title>поиск ARH</title>
+</HEAD>
+<BODY bgcolor=LightCyan>
+
+<H2>Вариант от 02.09.2020</H2>
+
+
+<A href="ATOC/">ATOC</A><BR>
+<A href="ATOC/atoc.asp?N=1">ATOC по ФИО</A><BR>
+<A href="ATOC/atoc.asp?N=2">ATOC по УД</A><BR>
+<HR>
+<Table BORDER=40>
+<TR><TD><A href="ATOC/arh-form.asp?N=1">Aрхив_поиск</A>
+<TD><A href="ATOC/arh-vvod.asp?N=2">Aрхив_ввод новой записи </A><TD>
+</Table>
+<HR>
+<BR>
+<BR>
+<BR>
+
+<A href="PAROL/">PAROL</A><BR>
+<A href="http://127.0.0.1/BIN/atoc_htm.exe">atoc_htm.exe</A><BR>
+
+<HR>
+<A href="color.htm">цвета в HTML</A><BR>  
+<A href="read_me.txt">прочитай</A><BR>    
+<A href="proba.htm">proba таблиц</A><BR>  
+<A href="proba-2.htm">proba меню</A><BR>  
+<A href="proba-3.htm">proba таблиц-2</A><BR>  
+<BR>
+<HR>
+<A href="SESSIA/">sessia</A><BR>
+<A href="create-arh.as-p"><FONT color=LightCyan>очистить архив</FONT></A><BR>
+<A href="create-slv.asp"><FONT color=LightCyan>создать словарь</FONT></A><BR>
+<A href="pro-stat0.asp">pro_stat 0</A><BR>
+<A href="pro-stat2.asp">pro_stat 2</A><BR>
+
+<A href="create_i.asp">индексация </A><BR> 
+
+<BR>
+<HR>
+<A href="http://www.google.ru">Googl</A><BR>
+
+
+
+
+
+
